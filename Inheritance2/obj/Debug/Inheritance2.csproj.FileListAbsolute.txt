@@ -1,0 +1,7 @@
+C:\Fahren\Repos\Inheritance2\Inheritance2\obj\Debug\Inheritance2.csproj.CoreCompileInputs.cache
+C:\Fahren\Repos\Inheritance2\Inheritance2\obj\Debug\Inheritance2.csprojAssemblyReference.cache
+C:\Fahren\Repos\Inheritance2\Inheritance2\bin\Debug\Inheritance2.exe.config
+C:\Fahren\Repos\Inheritance2\Inheritance2\bin\Debug\Inheritance2.exe
+C:\Fahren\Repos\Inheritance2\Inheritance2\bin\Debug\Inheritance2.pdb
+C:\Fahren\Repos\Inheritance2\Inheritance2\obj\Debug\Inheritance2.exe
+C:\Fahren\Repos\Inheritance2\Inheritance2\obj\Debug\Inheritance2.pdb
